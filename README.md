@@ -12,4 +12,3 @@ Instrucciones:
 
 6. Retos:
 * Cambia el color de fondo y la propiedad de la imagen entre "cover" y "contain"
-* Utiliza expo-linear-gradient si quieres utilizar gradientes. Puedes utilizar 
